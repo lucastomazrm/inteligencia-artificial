@@ -6,3 +6,18 @@
 3. Daniel
 4. Lucas
 5. Franciele Sena
+
+
+### Run
+```
+$ dotnet restore
+$ dotnet run
+```
+
+
+  
+### Deploy
+```
+$ dotnet restore
+$ dotnet build
+```
