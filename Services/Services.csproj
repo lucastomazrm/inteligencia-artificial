@@ -6,6 +6,7 @@
     <RootNamespace>IA.inteligencia_artificial.Services</RootNamespace>
   </PropertyGroup>
 
+  
   <ItemGroup>
     <ProjectReference Include="..\DataAccess\DataAccess.csproj" />
     <ProjectReference Include="..\Models\Models.csproj" />
