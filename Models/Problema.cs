@@ -12,7 +12,7 @@ namespace Models
         [StringLength(100)]
         public string Nome { get; set; }
 
-        public IList<Variavel> Variaveis { get; set; }
+        public IList<ProblemaVariavel> ProblemasVariaveis { get; set; }
      
         public long ProjetoId { get; set; }
         public Projeto Projeto { get; set; }

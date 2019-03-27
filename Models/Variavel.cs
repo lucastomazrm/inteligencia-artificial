@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace Models
@@ -9,7 +10,10 @@ namespace Models
         public long Id { get; set; }
         [StringLength(100)]
         public string Nome { get; set; }
-        public long ProblemaId { get; set; }
-        public Problema Problema { get; set; }
+        
+        public long ProjetoId { get; set; }
+        public Projeto Projeto { get; set; }
+
+        public IList<ProblemaVariavel> ProblemasVariaveis { get; set; }
     }
 }

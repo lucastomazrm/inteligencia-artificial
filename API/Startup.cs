@@ -1,12 +1,21 @@
-﻿using IA.inteligencia_artificial.DataAccess;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using IA.inteligencia_artificial.DataAccess;
+using IA.inteligencia_artificial.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Options;
+using Models.Interfaces.Services;
 
-namespace WebAPI
+namespace API
 {
     public class Startup
     {
@@ -20,9 +29,14 @@ namespace WebAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            // Contexto
+            services.AddDbContext<MainContext>(options => options.UseMySql(Configuration["StringConnection"]));
 
-            services.AddDbContext<MainContext>(options => options.UseMySql("Server=localhost;Database=Intelegincia;Uid=root;Pwd=;"));
-
+            // Services 
+            services.AddScoped<IProjetosService, ProjetosService>();
+            services.AddScoped<IProblemasService, ProblemasService>();
+            services.AddScoped<IVariaveisService, VariaveisService>();
+            services.AddScoped<ISolucaoService, SolucaoService>();
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
@@ -36,10 +50,10 @@ namespace WebAPI
             }
             else
             {
-                //app.UseHsts();
+                app.UseHsts();
             }
 
-           // app.UseHttpsRedirection();
+            app.UseHttpsRedirection();
             app.UseMvc();
         }
     }

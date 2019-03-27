@@ -20,7 +20,7 @@ namespace IA.inteligencia_artificial.Services
         {
             var query = this.context.Set<Variavel>()
                                     .AsQueryable()
-                                    .Where(x => x.Problema.ProjetoId == id);
+                                    .Where(x => x.ProjetoId == id);
 
             foreach (var property in this.context.Model.FindEntityType(typeof(Variavel)).GetNavigations())
             {
@@ -31,7 +31,7 @@ namespace IA.inteligencia_artificial.Services
         }
         public IEnumerable<Variavel> AllProblems(long id)
         {
-            var query = this.context.Set<Variavel>()
+            var query = this.context.Set<ProblemaVariavel>()
                                     .AsQueryable()
                                     .Where(x => x.ProblemaId == id);
 
@@ -40,7 +40,7 @@ namespace IA.inteligencia_artificial.Services
                 query = query.Include(property.Name);
             }
 
-            return query;
+            return query.Select(x => x.Varivavel);
         }
         public Variavel Get(long id)
         {

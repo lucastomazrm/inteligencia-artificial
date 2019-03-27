@@ -16,11 +16,11 @@ namespace IA.inteligencia_artificial.Services
 
         }
 
-        public IEnumerable<Problema> All(long id)
+        public IEnumerable<Problema> All(long idProjeto)
         {
             var query = this.context.Set<Problema>()
                                     .AsQueryable()
-                                    .Where(x => x.ProjetoId == id);
+                                    .Where(x => x.ProjetoId == idProjeto);
 
             foreach (var property in this.context.Model.FindEntityType(typeof(Problema)).GetNavigations())
             {
@@ -43,6 +43,14 @@ namespace IA.inteligencia_artificial.Services
             this.context.Set<Problema>().Add(item);
             base.Save();
         }
+        public void AddVariaies(long idProblema, IEnumerable<long> idVariaveis)
+        {
+            foreach (var idVariavel in idVariaveis)
+            {
+                this.context.Set<ProblemaVariavel>().Add(new ProblemaVariavel(idProblema, idVariavel));                  
+            }
+            base.Save();
+        }
         public void Update(Problema item)
         {
             this.context.Set<Problema>().Attach(item);
@@ -55,5 +63,6 @@ namespace IA.inteligencia_artificial.Services
             this.context.Set<Problema>().Remove(item);
             base.Save();
         }
+
     }
 }

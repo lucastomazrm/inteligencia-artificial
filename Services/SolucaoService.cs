@@ -15,11 +15,12 @@ namespace IA.inteligencia_artificial.Services
         {
 
         }
-        public IEnumerable<Problema> Diagnosis(IEnumerable<long> variables)
+
+        public IEnumerable<Problema> Solucao(IEnumerable<long> variables)
         {
             var query = this.context.Set<Problema>()
                                     .AsQueryable()
-                                    .Where(x => !x.Variaveis.Select(v => v.Id).Except(variables).Any());
+                                    .Where(x => !x.ProblemasVariaveis.Select(y => y.VariavelId).Except(variables).Any());
 
             foreach (var property in this.context.Model.FindEntityType(typeof(Problema)).GetNavigations())
             {
@@ -28,6 +29,5 @@ namespace IA.inteligencia_artificial.Services
 
             return query;
         }
-
     }
 }

@@ -14,12 +14,12 @@ namespace IA.inteligencia_artificial.Services
 
         public Service()
         {
-            this.context = new MainContext();
+         //   this.context = new MainContext();
         }
 
         public virtual void Dispose()
         {
-            this.context = null;
+            this.context.Dispose();
         }
 
         public void Save()
