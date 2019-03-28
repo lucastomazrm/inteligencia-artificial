@@ -1,0 +1,14 @@
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\Services\bin\Debug\netcoreapp2.1\IA.inteligencia_artificial.Services.deps.json
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\Services\bin\Debug\netcoreapp2.1\IA.inteligencia_artificial.Services.dll
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\Services\bin\Debug\netcoreapp2.1\IA.inteligencia_artificial.Services.pdb
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\Services\bin\Debug\netcoreapp2.1\IA.inteligencia_artificial.DataAccess.dll
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\Services\bin\Debug\netcoreapp2.1\Models.dll
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\Services\bin\Debug\netcoreapp2.1\IA.inteligencia_artificial.DataAccess.pdb
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\Services\bin\Debug\netcoreapp2.1\Models.pdb
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\Services\obj\Debug\netcoreapp2.1\IA.inteligencia_artificial.Services.dll
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\Services\obj\Debug\netcoreapp2.1\IA.inteligencia_artificial.Services.pdb

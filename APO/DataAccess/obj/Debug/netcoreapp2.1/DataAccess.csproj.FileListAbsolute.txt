@@ -1,0 +1,12 @@
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\DataAccess\bin\Debug\netcoreapp2.1\Models.dll
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\DataAccess\bin\Debug\netcoreapp2.1\IA.inteligencia_artificial.DataAccess.deps.json
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\DataAccess\bin\Debug\netcoreapp2.1\IA.inteligencia_artificial.DataAccess.dll
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\DataAccess\bin\Debug\netcoreapp2.1\IA.inteligencia_artificial.DataAccess.pdb
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\DataAccess\bin\Debug\netcoreapp2.1\Models.pdb
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CopyComplete
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\DataAccess\obj\Debug\netcoreapp2.1\IA.inteligencia_artificial.DataAccess.dll
+C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\DataAccess\obj\Debug\netcoreapp2.1\IA.inteligencia_artificial.DataAccess.pdb
