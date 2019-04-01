@@ -1,21 +1,42 @@
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\API\bin\Debug\netcoreapp2.1\API.deps.json
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.json
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.dev.json
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\API\bin\Debug\netcoreapp2.1\API.dll
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\API\bin\Debug\netcoreapp2.1\IA.inteligencia_artificial.DataAccess.dll
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\API\bin\Debug\netcoreapp2.1\Models.dll
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\API\bin\Debug\netcoreapp2.1\IA.inteligencia_artificial.DataAccess.pdb
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\API\bin\Debug\netcoreapp2.1\Models.pdb
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\API\obj\Debug\netcoreapp2.1\API.csprojAssemblyReference.cache
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\API\obj\Debug\netcoreapp2.1\API.csproj.CoreCompileInputs.cache
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cache
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cs
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\API\obj\Debug\netcoreapp2.1\API.AssemblyInfoInputs.cache
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\API\obj\Debug\netcoreapp2.1\API.AssemblyInfo.cs
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\API\obj\Debug\netcoreapp2.1\API.RazorTargetAssemblyInfo.cache
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\API\obj\Debug\netcoreapp2.1\API.csproj.CopyComplete
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\API\bin\Debug\netcoreapp2.1\API.pdb
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\API\obj\Debug\netcoreapp2.1\API.dll
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\API\obj\Debug\netcoreapp2.1\API.pdb
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\API\bin\Debug\netcoreapp2.1\IA.inteligencia_artificial.Services.dll
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\API\bin\Debug\netcoreapp2.1\IA.inteligencia_artificial.Services.pdb
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/API/bin/Debug/netcoreapp2.1/API.deps.json
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/API/bin/Debug/netcoreapp2.1/API.runtimeconfig.json
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/API/bin/Debug/netcoreapp2.1/API.runtimeconfig.dev.json
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/API/bin/Debug/netcoreapp2.1/API.dll
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/API/bin/Debug/netcoreapp2.1/IA.inteligencia_artificial.DataAccess.dll
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/API/bin/Debug/netcoreapp2.1/Models.dll
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/API/bin/Debug/netcoreapp2.1/IA.inteligencia_artificial.DataAccess.pdb
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/API/bin/Debug/netcoreapp2.1/Models.pdb
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/API/obj/Debug/netcoreapp2.1/API.csprojAssemblyReference.cache
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/API/obj/Debug/netcoreapp2.1/API.csproj.CoreCompileInputs.cache
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/API/obj/Debug/netcoreapp2.1/API.RazorAssemblyInfo.cache
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/API/obj/Debug/netcoreapp2.1/API.RazorAssemblyInfo.cs
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/API/obj/Debug/netcoreapp2.1/API.AssemblyInfoInputs.cache
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/API/obj/Debug/netcoreapp2.1/API.AssemblyInfo.cs
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/API/obj/Debug/netcoreapp2.1/API.RazorTargetAssemblyInfo.cache
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/API/obj/Debug/netcoreapp2.1/API.csproj.CopyComplete
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/API/bin/Debug/netcoreapp2.1/API.pdb
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/API/obj/Debug/netcoreapp2.1/API.dll
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/API/obj/Debug/netcoreapp2.1/API.pdb
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/API/bin/Debug/netcoreapp2.1/IA.inteligencia_artificial.Services.dll
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/API/bin/Debug/netcoreapp2.1/IA.inteligencia_artificial.Services.pdb
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/API/bin/Debug/netcoreapp2.1/API.deps.json
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/API/bin/Debug/netcoreapp2.1/API.runtimeconfig.json
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/API/bin/Debug/netcoreapp2.1/API.runtimeconfig.dev.json
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/API/bin/Debug/netcoreapp2.1/API.dll
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/API/bin/Debug/netcoreapp2.1/API.pdb
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/API/bin/Debug/netcoreapp2.1/IA.inteligencia_artificial.DataAccess.dll
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/API/bin/Debug/netcoreapp2.1/IA.inteligencia_artificial.Services.dll
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/API/bin/Debug/netcoreapp2.1/Models.dll
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/API/bin/Debug/netcoreapp2.1/IA.inteligencia_artificial.DataAccess.pdb
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/API/bin/Debug/netcoreapp2.1/IA.inteligencia_artificial.Services.pdb
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/API/bin/Debug/netcoreapp2.1/Models.pdb
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/API/obj/Debug/netcoreapp2.1/API.csprojAssemblyReference.cache
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/API/obj/Debug/netcoreapp2.1/API.csproj.CoreCompileInputs.cache
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/API/obj/Debug/netcoreapp2.1/API.RazorAssemblyInfo.cache
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/API/obj/Debug/netcoreapp2.1/API.RazorAssemblyInfo.cs
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/API/obj/Debug/netcoreapp2.1/API.AssemblyInfoInputs.cache
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/API/obj/Debug/netcoreapp2.1/API.AssemblyInfo.cs
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/API/obj/Debug/netcoreapp2.1/API.RazorTargetAssemblyInfo.cache
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/API/obj/Debug/netcoreapp2.1/API.csproj.CopyComplete
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/API/obj/Debug/netcoreapp2.1/API.dll
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/API/obj/Debug/netcoreapp2.1/API.pdb

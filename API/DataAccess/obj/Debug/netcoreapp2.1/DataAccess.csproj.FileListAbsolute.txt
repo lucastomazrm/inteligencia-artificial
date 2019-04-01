@@ -1,12 +1,24 @@
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\DataAccess\bin\Debug\netcoreapp2.1\Models.dll
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CoreCompileInputs.cache
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\DataAccess\bin\Debug\netcoreapp2.1\IA.inteligencia_artificial.DataAccess.deps.json
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\DataAccess\bin\Debug\netcoreapp2.1\IA.inteligencia_artificial.DataAccess.dll
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\DataAccess\bin\Debug\netcoreapp2.1\IA.inteligencia_artificial.DataAccess.pdb
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\DataAccess\bin\Debug\netcoreapp2.1\Models.pdb
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CopyComplete
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\DataAccess\obj\Debug\netcoreapp2.1\IA.inteligencia_artificial.DataAccess.dll
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\DataAccess\obj\Debug\netcoreapp2.1\IA.inteligencia_artificial.DataAccess.pdb
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/DataAccess/bin/Debug/netcoreapp2.1/Models.dll
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.csprojAssemblyReference.cache
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.csproj.CoreCompileInputs.cache
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.AssemblyInfoInputs.cache
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.AssemblyInfo.cs
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/DataAccess/bin/Debug/netcoreapp2.1/IA.inteligencia_artificial.DataAccess.deps.json
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/DataAccess/bin/Debug/netcoreapp2.1/IA.inteligencia_artificial.DataAccess.dll
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/DataAccess/bin/Debug/netcoreapp2.1/IA.inteligencia_artificial.DataAccess.pdb
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/DataAccess/bin/Debug/netcoreapp2.1/Models.pdb
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.csproj.CopyComplete
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/DataAccess/obj/Debug/netcoreapp2.1/IA.inteligencia_artificial.DataAccess.dll
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/DataAccess/obj/Debug/netcoreapp2.1/IA.inteligencia_artificial.DataAccess.pdb
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/DataAccess/bin/Debug/netcoreapp2.1/IA.inteligencia_artificial.DataAccess.deps.json
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/DataAccess/bin/Debug/netcoreapp2.1/IA.inteligencia_artificial.DataAccess.dll
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/DataAccess/bin/Debug/netcoreapp2.1/IA.inteligencia_artificial.DataAccess.pdb
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/DataAccess/bin/Debug/netcoreapp2.1/Models.dll
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/DataAccess/bin/Debug/netcoreapp2.1/Models.pdb
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.csprojAssemblyReference.cache
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.csproj.CoreCompileInputs.cache
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.AssemblyInfoInputs.cache
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.AssemblyInfo.cs
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.csproj.CopyComplete
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/DataAccess/obj/Debug/netcoreapp2.1/IA.inteligencia_artificial.DataAccess.dll
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/DataAccess/obj/Debug/netcoreapp2.1/IA.inteligencia_artificial.DataAccess.pdb

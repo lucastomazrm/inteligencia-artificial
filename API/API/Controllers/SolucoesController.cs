@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Models;
 using Models.Interfaces.Services;
 
 namespace API.Controllers
@@ -21,6 +22,13 @@ namespace API.Controllers
         public IActionResult Index()
         {
             return View();
+        }
+
+        [HttpGet]
+        [Route("Solucao")]
+        public IEnumerable<Problema> Solucao(IEnumerable<long> variables)
+        {
+            return this._context.Solucao(variables);
         }
     }
 }

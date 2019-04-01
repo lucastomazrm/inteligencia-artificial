@@ -1,9 +1,18 @@
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\Models\bin\Debug\netcoreapp2.1\Models.deps.json
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\Models\bin\Debug\netcoreapp2.1\Models.dll
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\Models\bin\Debug\netcoreapp2.1\Models.pdb
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\Models\obj\Debug\netcoreapp2.1\Models.csproj.CoreCompileInputs.cache
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfoInputs.cache
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfo.cs
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\Models\obj\Debug\netcoreapp2.1\Models.dll
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\Models\obj\Debug\netcoreapp2.1\Models.pdb
-C:\Users\Gabriel Calegari\Documents\inteligencia-artificial\Models\obj\Debug\netcoreapp2.1\Models.csprojAssemblyReference.cache
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/Models/bin/Debug/netcoreapp2.1/Models.deps.json
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/Models/bin/Debug/netcoreapp2.1/Models.dll
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/Models/bin/Debug/netcoreapp2.1/Models.pdb
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/Models/obj/Debug/netcoreapp2.1/Models.csproj.CoreCompileInputs.cache
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/Models/obj/Debug/netcoreapp2.1/Models.AssemblyInfoInputs.cache
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/Models/obj/Debug/netcoreapp2.1/Models.AssemblyInfo.cs
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/Models/obj/Debug/netcoreapp2.1/Models.dll
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/Models/obj/Debug/netcoreapp2.1/Models.pdb
+C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/Models/obj/Debug/netcoreapp2.1/Models.csprojAssemblyReference.cache
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/Models/bin/Debug/netcoreapp2.1/Models.deps.json
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/Models/bin/Debug/netcoreapp2.1/Models.dll
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/Models/bin/Debug/netcoreapp2.1/Models.pdb
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/Models/obj/Debug/netcoreapp2.1/Models.csprojAssemblyReference.cache
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/Models/obj/Debug/netcoreapp2.1/Models.csproj.CoreCompileInputs.cache
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/Models/obj/Debug/netcoreapp2.1/Models.AssemblyInfoInputs.cache
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/Models/obj/Debug/netcoreapp2.1/Models.AssemblyInfo.cs
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/Models/obj/Debug/netcoreapp2.1/Models.dll
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/Models/obj/Debug/netcoreapp2.1/Models.pdb
