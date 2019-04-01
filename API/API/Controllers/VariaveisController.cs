@@ -19,11 +19,6 @@ namespace API.Controllers
             _context = context;
         }
 
-        public IActionResult Index()
-        {
-            return View();
-        }
-
         [HttpGet]
         [Route("AllProblems")]
         public IEnumerable<Variavel> AllProblems([FromQuery]long id)

@@ -20,11 +20,6 @@ namespace API.Controllers
             _context = context;
         }
 
-        public IActionResult Index()
-        {
-            return View();
-        }
-
         [HttpGet("{id}")]
         public Projeto Get(int id)
         {

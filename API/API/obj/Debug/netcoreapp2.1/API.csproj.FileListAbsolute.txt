@@ -40,3 +40,4 @@ C:/Users/Gabriel Calegari/Documents/inteligencia-artificial/API/bin/Debug/netcor
 /Users/ltomaz/Documents/Git/inteligencia-artificial/API/API/obj/Debug/netcoreapp2.1/API.csproj.CopyComplete
 /Users/ltomaz/Documents/Git/inteligencia-artificial/API/API/obj/Debug/netcoreapp2.1/API.dll
 /Users/ltomaz/Documents/Git/inteligencia-artificial/API/API/obj/Debug/netcoreapp2.1/API.pdb
+/Users/ltomaz/Documents/Git/inteligencia-artificial/API/API/bin/Debug/netcoreapp2.1/Api.XML
